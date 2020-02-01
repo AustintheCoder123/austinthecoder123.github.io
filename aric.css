@@ -1,0 +1,66 @@
+body{
+	font-family: Helvetica;
+	margin: 0px;
+}
+.main{
+	background-image: url("http://churchstillworks.org/wp-content/uploads/2018/01/AdobeStock_134115811.jpeg");
+}
+.name{
+	font-size: 70px;
+	color: #ffffff;
+	text-shadow: 3px 3px black;
+	padding-bottom: 10px
+}
+.row{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.desc{
+	font-size: 20px;
+	color: #ffffff;
+	font-style: italic;
+	padding-top: 3px;
+}
+.column{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.bubble{
+	background: #00009944;
+	border-radius: 50px;
+	padding: 60px;
+	margin-top: 60px;
+}
+.buton{
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid white;
+	color: white;
+	margin-top: 30px;
+}
+.buton:hover{
+	background: white;
+	color: #000099;
+}
+
+.tskillt{
+	font-size: 50px;
+	color: black;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.tskills{
+	background-image: url('https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?size=626&ext=jpg');
+}
+td{
+	border: 2px solid #000099;
+	padding: 10px;
+}
+table{
+	border-collapse: collapse;
+	background: #00009944;
+	text-align: center;
+}
