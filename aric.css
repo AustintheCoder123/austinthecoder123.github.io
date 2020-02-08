@@ -64,3 +64,48 @@ table{
 	background: #00009944;
 	text-align: center;
 }
+.tt{
+	color: white;
+	font-size: 50px;
+}
+.tname{
+	color: white;
+	font-size: 30px;
+}
+.timage{
+	padding-left: 60px;
+	padding-right: 10px;
+}
+.testimonials{
+	text-align: center;
+	background-size: cover;
+	background: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v748-toon-131_1_1.jpg?w=800&dpr=1&fit=default&crop=default&auto=format&fm=pjpg&q=75&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.1.2&s=df7667525407d03f585338451e66d6d4');
+}
+.trow{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+	padding: 20px;
+	border: 1px dotted #000099;
+}
+
+.skillzt{
+	color: black;
+	font-size: 50px;
+}
+.skillz{
+	background-image: url('https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?size=626&ext=jpg');
+	background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
+
